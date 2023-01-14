@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.94 70.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffcd6;
+      }
+
+      .cls-2 {
+        fill: #a7a58f;
+      }
+
+      .cls-3 {
+        fill: #dcd9ba;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #231f20;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="airplane">
+    <g>
+      <g>
+        <polygon class="cls-1" points="0 70.62 82.34 22.81 106.94 29.94 0 70.62"/>
+        <polygon class="cls-1" points="0 70.62 74.14 0 79.49 18.54 0 70.62"/>
+        <polygon class="cls-3" points="79.49 18.54 79.49 24.47 0 70.62 79.49 18.54"/>
+        <polygon class="cls-3" points="0 70.62 86.33 46.72 84.98 38.29 0 70.62"/>
+        <polygon class="cls-2" points="22.94 64.27 85.61 42.24 84.98 38.29 0 70.62 22.94 64.27"/>
+      </g>
+      <g id="_Group_face_1" data-name="&amp;lt;Group&amp;gt; face 1">
+        <ellipse class="cls-5" cx="26.15" cy="49.61" rx=".91" ry=".73" transform="translate(-29.87 52.11) rotate(-64.76)"/>
+        <ellipse class="cls-5" cx="32.79" cy="52.73" rx=".91" ry=".73" transform="translate(-28.89 59.91) rotate(-64.76)"/>
+        <line class="cls-4" x1="23.24" y1="51.69" x2="33.28" y2="56.43"/>
+      </g>
+    </g>
+  </g>
+</svg>

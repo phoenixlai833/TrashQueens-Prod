@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 91.08 126.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d74229;
+      }
+
+      .cls-2 {
+        fill: #1f2c2b;
+      }
+
+      .cls-3 {
+        fill: #3e4847;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #231f20;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        fill: #536261;
+        opacity: .7;
+      }
+    </style>
+  </defs>
+  <g id="frying_pan" data-name="frying pan">
+    <g>
+      <g>
+        <polygon class="cls-3" points="29.05 74.65 39.06 58.25 44.71 62.08 34.13 77.77 29.05 74.65"/>
+        <path class="cls-1" d="M22.71,76.34L.55,116.9c-1.13,2.07-.48,4.67,1.49,5.96l4.79,3.14c2.2,1.44,5.17,.71,6.44-1.6l22.44-40.57c1.17-2.12,.47-4.78-1.59-6.05l-5.08-3.12c-2.21-1.36-5.1-.59-6.34,1.69Z"/>
+        <ellipse class="cls-3" cx="54.61" cy="37.38" rx="36.47" ry="37.38"/>
+        <circle class="cls-2" cx="54.61" cy="37.38" r="29.17"/>
+        <path class="cls-6" d="M73.45,69.4c-3.35-7.85-8-16.98-14.51-26.53-9.98-14.64-20.87-25.2-29.62-32.41,10.93,3.35,25.79,9.38,40.95,20.61,7.86,5.82,14.19,11.84,19.2,17.32-.09,.26-.23,.63-.4,1.07-.9,2.33-2.69,6.95-6.04,11.34-1.66,2.18-4.68,5.57-9.58,8.6Z"/>
+      </g>
+      <g id="_Group_face_1" data-name="&amp;lt;Group&amp;gt; face 1">
+        <ellipse class="cls-5" cx="14.38" cy="102.34" rx="1.3" ry="1.46" transform="translate(-83.28 68.52) rotate(-62.9)"/>
+        <ellipse class="cls-5" cx="20.32" cy="90.73" rx="1.3" ry="1.46" transform="translate(-69.7 67.49) rotate(-62.9)"/>
+        <line class="cls-4" x1="17.44" y1="107.4" x2="26.44" y2="89.82"/>
+      </g>
+    </g>
+  </g>
+</svg>

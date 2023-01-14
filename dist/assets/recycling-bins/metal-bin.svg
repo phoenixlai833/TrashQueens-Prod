@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 134.31 185.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8991d;
+      }
+
+      .cls-2 {
+        fill: #f6c33a;
+      }
+
+      .cls-3 {
+        fill: #ffe35a;
+      }
+
+      .cls-4 {
+        fill: #ed1c24;
+      }
+
+      .cls-5 {
+        fill: #ffd45d;
+      }
+
+      .cls-6 {
+        fill: #824c9e;
+      }
+
+      .cls-7 {
+        fill: #b3a241;
+      }
+
+      .cls-8 {
+        fill: #fff5e9;
+        stroke: #f6c33a;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="yellow_bin" data-name="yellow bin">
+    <g id="_Group_body" data-name="&amp;lt;Group&amp;gt; body">
+      <polygon class="cls-2" points="14.49 70.06 28.26 185.5 109.81 185.5 119.34 70.06 14.49 70.06"/>
+      <path class="cls-5" d="M0,55.1v8.49c0,3.58,2.15,6.48,4.79,6.48h124.72c2.65,0,4.79-2.9,4.79-6.48v-8.49c0-3.58-2.15-6.48-4.79-6.48H4.79c-2.65,0-4.79,2.9-4.79,6.48Z"/>
+      <path class="cls-2" d="M9.77,47.09l3.56-14.66c.14-.56,.63-.95,1.21-.95H117.03c.52,0,.98,.32,1.16,.81l5.47,14.66c.3,.81-.3,1.68-1.16,1.68H10.98c-.8,0-1.4-.75-1.21-1.53Z"/>
+    </g>
+    <g id="_Group_Crown" data-name="&amp;lt;Group&amp;gt; Crown">
+      <polygon class="cls-7" points="49.38 7.37 55.62 0 62.11 5.57 58.06 11.09 49.38 7.37"/>
+      <polygon class="cls-3" points="47.84 31.26 88.04 31.26 92.68 3.7 75.31 11.09 66.19 0 58.06 11.09 40.81 3.7 47.84 31.26"/>
+      <polygon class="cls-7" points="75.31 11.09 70.75 5.55 77.29 0 84.51 7.17 75.31 11.09"/>
+      <polygon class="cls-1" points="46.78 27.12 88.74 27.12 88.04 31.26 47.84 31.26 46.78 27.12"/>
+      <polygon class="cls-6" points="62.52 18.14 66.74 12.4 70.75 18.14 66.63 23.55 62.52 18.14"/>
+    </g>
+    <g id="_Group_recycle_symbol" data-name="&amp;lt;Group&amp;gt;recycle symbol">
+      <g id="_Group_recycle_arrow" data-name="&amp;lt;Group&amp;gt;recycle arrow">
+        <path class="cls-8" d="M45.76,100s7.3-13.34,12.47-12.78,20.08-.02,20.08-.02c0,0,3.95,.86,7.91,7.53l6.39-3.06-7.91,13.34h-18.86l7-3.06-4.59-5.84-8.01,11.48-14.47-7.58Z"/>
+        <path class="cls-8" d="M68.24,96.1s-5.17-9.03-10.01-8.88"/>
+      </g>
+      <g id="_Group_recycle_arrow-2" data-name="&amp;lt;Group&amp;gt;recycle arrow">
+        <path class="cls-8" d="M94.44,104.44s8.52,12.72,5.27,16.43-10.61,15.57-10.61,15.57c0,0-2.89,2.61-11.18,2.14l-.54,6.57-8.2-13.19,9.99-14.61-.87,7.04,7.85-.46-6.42-12.29,14.7-7.2Z"/>
+        <path class="cls-8" d="M86.16,123.93s11.13,.78,13.55-3.06"/>
+      </g>
+      <g id="_Group_recycle_arrow-3" data-name="&amp;lt;Group&amp;gt;recycle arrow">
+        <path class="cls-8" d="M66.36,140.33s-16.26,1.35-18.46-2.96-10.58-15.59-10.58-15.59c0,0-1.28-3.53,2.85-10.1l-6.21-3.35,16.58-.87,9.92,14.65-6.53-3.83-3.03,6.64,14.9,.19,.55,15.23Z"/>
+        <path class="cls-8" d="M50.9,124.91s-5.69,8.77-3,12.45"/>
+      </g>
+    </g>
+    <g id="_Group_face" data-name="&amp;lt;Group&amp;gt;face">
+      <polygon class="cls-4" points="61.87 59.34 71.14 59.34 67.16 66.33 61.87 59.34"/>
+      <path id="_Path_happy_eye" data-name="&amp;lt;Path&amp;gt;happy eye" class="cls-9" d="M25.25,42.91c27.34,5.02,25.63,9.84,25.63,9.84,0,0-19.29,0-23.06,12.31"/>
+      <path id="_Path_happy_eye-2" data-name="&amp;lt;Path&amp;gt;happy eye" class="cls-9" d="M110.75,42.91c-30.79,5.02-28.87,9.84-28.87,9.84,0,0,21.73,0,25.97,12.31"/>
+    </g>
+  </g>
+</svg>

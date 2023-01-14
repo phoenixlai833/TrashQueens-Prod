@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.24 85.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffdb40;
+      }
+
+      .cls-2 {
+        fill: #fbb040;
+        stroke: #fbb040;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #f7941d;
+        stroke: #f7941d;
+      }
+
+      .cls-4 {
+        fill: #fff9ae;
+        stroke: #fff9ae;
+      }
+
+      .cls-5 {
+        fill: #f15a29;
+        stroke: #f15a29;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #231f20;
+        stroke: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="pizza">
+    <g id="_Group_object" data-name="&amp;lt;Group&amp;gt; object">
+      <path id="_Path_body_bottom" data-name="&amp;lt;Path&amp;gt; body bottom" class="cls-2" d="M3.53,60.74l-1.8-4.24s21.93-18.89,103.7-8.07v8.07S28.18,47.02,3.53,60.74Z"/>
+      <path id="_Path_body_top" data-name="&amp;lt;Path&amp;gt; body top" class="cls-1" d="M0,56.5S5.55,35.28,63.06,13.86c0,0,29.76,5.82,42.37,34.57-4.52-.54-10.67-1.24-17.99-1.98-21.91-2.22-26.57-1.99-29.35,1.21-3.99,4.6-2.86,13.95-2.74,14.9,.63,4.81,2.75,9.15,.91,10.64-.61,.49-1.63,.67-2.43,.3-2.62-1.19-.56-7.17-2.58-15.66-.26-1.09-2.22-9.35-5.12-9.43-1.84-.05-3.31,3.2-4.14,5.05-4.13,9.13-2.26,19.52-1.99,20.96,.96,5.04,2.61,8.75,.74,10.47-.69,.63-1.82,.96-2.71,.63-2.53-.93-2.29-6.77-2.53-10.61-.52-8.27-4.1-20.34-10.69-24.2C15.89,45.49,1.62,55.36,0,56.5Z"/>
+      <path id="_Path_crust" data-name="&amp;lt;Path&amp;gt; crust" class="cls-3" d="M78.59,2.56c-3.97-2.3-8.91-2.04-12.51,.65-3.27,2.44-4.95,6.54-4.39,10.65,4.45,.63,9.81,1.9,15.47,4.49,17.29,7.91,25.65,22.63,28.65,28.69,2.69-1.95,6.25-3.77,10.38-3.61,4.21,.17,6.31,2.3,6.89,1.66,1.56-1.73-10.51-17.16-26.8-30.28-6.96-5.61-13.24-9.62-17.69-12.25Z"/>
+      <ellipse id="_Ellipse_meat_1" data-name="&amp;lt;Ellipse&amp;gt; meat 1" class="cls-5" cx="73.08" cy="37.88" rx="3.28" ry="9.3" transform="translate(32.26 109.37) rotate(-87.68)"/>
+      <path class="cls-4" d="M105.43,48.43s8.41-9.29,17.79-2.13c0,0,6.37,5.01,.64,10.02-5.73,5.01-17.61,1.43-17.61,1.43,0,0-5.64-2.6-.82-9.32Z"/>
+      <ellipse id="_Ellipse_meat_1-2" data-name="&amp;lt;Ellipse&amp;gt; meat 1" class="cls-5" cx="34.94" cy="36.4" rx="6.54" ry="3.13" transform="translate(-8.12 10.1) rotate(-14.75)"/>
+      <ellipse id="_Ellipse_meat_1-3" data-name="&amp;lt;Ellipse&amp;gt; meat 1" class="cls-5" cx="55.33" cy="24.02" rx="6.37" ry="2.52" transform="translate(-3.75 11.86) rotate(-11.83)"/>
+      <g id="_Group_face_1" data-name="&amp;lt;Group&amp;gt; face 1">
+        <ellipse class="cls-7" cx="70.88" cy="20.83" rx=".82" ry="2.41" transform="translate(13.32 67.14) rotate(-55.2)"/>
+        <ellipse class="cls-7" cx="90.8" cy="34.67" rx=".82" ry="2.41" transform="translate(10.5 89.44) rotate(-55.2)"/>
+        <line class="cls-6" x1="64.53" y1="19.86" x2="94.68" y2="40.82"/>
+      </g>
+    </g>
+  </g>
+</svg>
