@@ -20,12 +20,12 @@ Throughout the whole project, we were faced with a multitude of challenges:
 1. Install dependencies needed to run the project
 
 ```sh
-npm install
+yarn install
 ```
 2. Run the Dev Project
 
 ```sh
-npm run dev
+yarn run dev
 ```
 
 ### How to play(screenshots/screen record):
