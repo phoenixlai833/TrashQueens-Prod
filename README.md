@@ -2,7 +2,10 @@
 <p align="center">A recycling game for all ages to learn about how to recycle properly. Explore the app, expand your knowledge and make the world a better place!</p>
 <br>
 <p align="center"><strong><a href="https://tq-server-production.up.railway.app/" target="_blank">Start Playing Now!</a></strong></p>
-<p align="center"><img src="/public/assets/others/hero-image.svg" alt="trees" width="600" height="600"/></p>
+
+<div align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/41124039/212531895-9812e1fe-b445-4929-9525-08ddb2aff54c.svg"/> 
+</div>
 
 ## Project Overview
 We started this school project as a way for us to familiarize and improve our skills in using new technologies: 
